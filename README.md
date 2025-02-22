@@ -5,6 +5,7 @@ This repository contains the course materials for **Neural Networks and Deep Lea
 
 ## 👨‍🏫 Instructors
 - **Behnam Bahrak** ([bahrak@gmail.com](mailto:bahrak@gmail.com))
+- [Prof. Bahrak's Youtube Channel](https://www.youtube.com/@BahrakCourses)
 
 ## 📖 Course Resource
 - *Hands-On Machine Learning* (from **Chapter 10** onwards)
